@@ -1,0 +1,11 @@
+Color
+	BLACK	#000000
+	Red 	#FD511A
+	Green	#21B573
+
+Font Family
+	font-family: 'Poppins', sans-serif;
+	font-family: 'Roboto', sans-serif;
+
+
+Padding
